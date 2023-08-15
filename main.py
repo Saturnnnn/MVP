@@ -92,6 +92,7 @@ class PlasticPollutionQuiz:
             self.root.destroy()
 
 
+
 # Create and run the GUI
 if __name__ == "__main__":
     root = tk.Tk()
